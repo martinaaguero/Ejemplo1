@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+.container1, .container2{
+
+height: 500px;
+width: 500px;
+
+}
+
+
+.container1{
+
+    background-color: pink;
+    text-align: center;
+}
+
+
+.container2{
+
+    background-color: beige;
+    text-decoration: dashed;
+}
+
+
+
+
